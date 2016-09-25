@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">hola mundo app</string>
+    <string name="nombre_aplicacion">Hola mundo</string>
+    <string name="cadena">Texto de usuario</string>
 </resources>
